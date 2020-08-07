@@ -7,4 +7,6 @@ Project for Applied Data Capstone IBM/Coursera course
 <br>
 <b>This is a link to the Toronto neighbourhoods first gist: <a href="https://gist.github.com/jspinto/dd4ce98c2d52279ec0f091c76a070d67">Toronto_1.ipynb</a></b>
 <br>
-<b>This is a link to the Toronto neighbourhoods second gist: <a href="https://gist.github.com/jspinto/660972b9932dbee04b570f1eaa5b4508">Toronto_2.ipynb</a></b>
+<b>This is a link to the Toronto neighbourhoods second gist: <a href="https://gist.github.com/jspinto/2a41945e6c73629d00b13833ac421ea6">Toronto_2.ipynb</a></b>
+<br>
+<b>This is a link to the Toronto neighbourhoods third gist: <a href="https://gist.github.com/jspinto/71a92c2a1121c63dcc0f2fb287227ac5">Toronto_3.ipynb</a></b>
