@@ -24,3 +24,6 @@ We will start with a main base located in the Retiro Park (lat: 40.415, long: -3
 It is not about having a specific educator in each museum, but about being able to establish three small offices from which to go to each other museum when necessary.
 <br><br>
 For this project we are going to locate the main museums within a radius of 2 km around our main base with the help of the Foursquare API and the visitors statistics of each museum. We also are going to search the best particular museum to place each auxiliar offiice and to propose how many educators we can allocate in each one.
+<br><br>
+This is a link to the project gist: <a href="https://gist.github.com/342f8d40a5bf018f574aa8c256b7ece7">Capstone_Project.ipynb</a>
+<br>
