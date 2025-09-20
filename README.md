@@ -17,7 +17,7 @@ This is a link to the Toronto neighbourhoods third gist: <a href="https://gist.g
 <br><br>
 The idea is to begin a public service with about 20 museum educators in the city of Madrid (Spain).
 <br><br>
-This educators are not part of the staff of any museum and they should be able to go to the assigned museums to perform different activities.
+These educators are not part of the staff of any museum and they should be able to go to the assigned museums to perform different activities.
 <br><br>
 We will start with a main base located in the Retiro Park (lat: 40.415, long: -3.684) where we will set up our principal information point. We also will set up three auxiliary offices in three specific museums with a particular number of educators in each one of them.
 <br><br>
